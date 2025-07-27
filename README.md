@@ -1,6 +1,6 @@
 # Hello👋 I'm Denis
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
 </p>
 
