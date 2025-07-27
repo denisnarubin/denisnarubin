@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello👋 I'm Denis<br>
+  Hello👋 I'm Denis 
   <code style="color: #61dafb; font-size: 0.8em;">&lt;denisyandra&gt;Frontend Developer&lt;/denisyandra&gt;</code>
 </h1>
 
