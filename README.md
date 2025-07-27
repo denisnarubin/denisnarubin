@@ -1,7 +1,6 @@
 
 # Hello👋 I'm Denis  
-<span style="background: linear-gradient(90deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">&lt;denisyandra&gt;</span> Frontend Developer <span style="background: linear-gradient(90deg, #4ECDC4, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">&lt;/denisyandra&gt;</span>
-
+<span style="color: #569CD6;">&lt;</span><span style="color: #4EC9B0;">denisyandra</span><span style="color: #569CD6;">&gt;</span> Frontend Developer <span style="color: #569CD6;">&lt;/</span><span style="color: #4EC9B0;">denisyandra</span><span style="color: #569CD6;">&gt;</span>
 <p align="left">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
 </p>
