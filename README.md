@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
 </p>
 
-## About me 🚀 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" align="right">
+## About me 🚀 
 🔹 Frontend Developer 👨‍💻  
 🔹 I work every day to become better 📚  
 🔹 Dream: Work in a team that values growth and innovation 🔥  
 🔹 Reach out - happy to connect and learn from others! 📫
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" align="right">
 
 #### Core Web Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)  
