@@ -1,4 +1,9 @@
 # Hello👋 I'm Denis
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
+</p>
+
 ## 🚀 About me 
 🔹 Frontend Developer 👨‍💻  
 🔹 I work every day to become better 📚  
@@ -22,7 +27,4 @@
 ## 🔗 Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-profile/)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
