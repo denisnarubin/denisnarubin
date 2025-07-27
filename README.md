@@ -10,7 +10,7 @@
 🔹 Dream: Work in a team that values growth and innovation 🔥  
 🔹 Reach out - happy to connect and learn from others! 📫
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" align="right">
 
 #### Core Web Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)  
