@@ -21,5 +21,5 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## 🔗 Connect with me
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/your_username)
+<a href="https://t.me/your_username"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" style="pointer-events: none"></a>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-profile/)
