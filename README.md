@@ -7,8 +7,18 @@
 🔹 Reach out - happy to connect and learn from others! 📫
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,figma)](https://skillicons.dev)
 
+#### Core Web Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)  
+
+#### Frontend Framework & Tools
+[![My Skills](https://skillicons.dev/icons?i=react,redux,sass)](https://skillicons.dev)  
+
+#### Build Tools
+[![My Skills](https://skillicons.dev/icons?i=webpack,vite)](https://skillicons.dev)  
+
+#### Design
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 ## 🔗 Connect with me
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FF4088?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio-url.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
