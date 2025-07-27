@@ -1,6 +1,8 @@
 # Hello👋 I'm Denis
 
-![Tech Logos](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
+</p>
 
 ## About me 🚀
 🔹 Frontend Developer 👨‍💻  
