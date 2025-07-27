@@ -1,7 +1,5 @@
-
-# Hello👋 I'm Denis  
-# Hello👋 I'm Denis  
-🔵<code>&lt;denisyandra&gt;</code> Frontend Developer <code>&lt;/denisyandra&gt;</code>🔵
+<h1>Hello👋 I'm Denis</h1>
+<denisyandra>Frontend Developer</denisyandra>
 
 ## 🚀 About me 
 🔹 Frontend Developer 👨‍💻  
