@@ -1,4 +1,4 @@
-# Hello👋 I'm Denis<!-- -->
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 0 !important;">Hello👋 I'm Denis</h1>
 \<denisyandra\>Frontend Developer\</denisyandra\>
 
 ## 🚀 About me 
