@@ -21,11 +21,4 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## 🔗 Connect with me
-<div>
-  <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-profile/)
