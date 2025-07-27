@@ -1,6 +1,6 @@
 # Hello👋 I'm Denis
 
-![Loader](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ1a2FqZ2NtZ2RqZ2ZqZ2ZqZ2ZqZ2ZqZ2ZqZ2ZqZ2ZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif)
+![React](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjY2Z1d2N0d2FqZ3R1dW1xZ3F4c2VxN2RlZ3F6eG1tY3RzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWqhQglwTvP0l/giphy.gif)
 
 ## About me 🚀
 🔹 Frontend Developer 👨‍💻  
