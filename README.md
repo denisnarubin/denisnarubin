@@ -1,9 +1,7 @@
 
 # Hello👋 I'm Denis  
-<span style="color: #569CD6;">&lt;</span><span style="color: #4EC9B0;">denisyandra</span><span style="color: #569CD6;">&gt;</span> Frontend Developer <span style="color: #569CD6;">&lt;/</span><span style="color: #4EC9B0;">denisyandra</span><span style="color: #569CD6;">&gt;</span>
-<p align="left">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
-</p>
+# Hello👋 I'm Denis  
+🔵<code>&lt;denisyandra&gt;</code> Frontend Developer <code>&lt;/denisyandra&gt;</code>🔵
 
 ## 🚀 About me 
 🔹 Frontend Developer 👨‍💻  
