@@ -1,5 +1,5 @@
-<h1 align="center">
-  Hello👋 I'm Denis 
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  Hello👋 I'm Denis
   <code style="color: #61dafb; font-size: 0.8em;">&lt;denisyandra&gt;Frontend Developer&lt;/denisyandra&gt;</code>
 </h1>
 
