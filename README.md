@@ -1,6 +1,6 @@
 # Hello👋 I'm Denis
 
-![React](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNjY2Z1d2N0d2FqZ3R1dW1xZ3F4c2VxN2RlZ3F6eG1tY3RzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWqhQglwTvP0l/giphy.gif)
+![Typing Code](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 ## About me 🚀
 🔹 Frontend Developer 👨‍💻  
