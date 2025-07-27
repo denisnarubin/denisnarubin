@@ -1,5 +1,7 @@
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin-bottom: 0 !important;">Hello👋 I'm Denis</h1>
-\<denisyandra\>Frontend Developer\</denisyandra\>
+<h1 align="center">
+  Hello👋 I'm Denis<br>
+  <code style="color: #61dafb; font-size: 0.8em;">&lt;denisyandra&gt;Frontend Developer&lt;/denisyandra&gt;</code>
+</h1>
 
 ## 🚀 About me 
 🔹 Frontend Developer 👨‍💻  
