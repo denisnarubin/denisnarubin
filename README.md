@@ -1,6 +1,6 @@
 # Hello👋 I'm Denis
 
-![React Logo](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
+![Tech Logos](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
 
 ## About me 🚀
 🔹 Frontend Developer 👨‍💻  
