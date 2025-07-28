@@ -1,8 +1,8 @@
 # Hello👋 I'm Denis
 
-<p align="left">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
-</p>
+
+<iframe src="https://gifer.com/embed/1xZ" width=480 height=377.074 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+
 
 ## 🚀 About me 
 🔹 Frontend Developer 👨‍💻  
