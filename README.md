@@ -1,7 +1,7 @@
 # Hello👋 I'm Denis
 
 
-<iframe src="https://gifer.com/embed/1xZ" width=480 height=377.074 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+![Funny GIF](https://media.giphy.com/media/ваш-gif-код/giphy.gif)  
 
 
 ## 🚀 About me 
