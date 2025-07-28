@@ -26,4 +26,4 @@
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-profile/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/denis-narubin-8605b9377) 
