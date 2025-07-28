@@ -1,7 +1,7 @@
 # Hello👋 I'm Denis
 
 
-![Funny GIF](https://media.giphy.com/media/ваш-gif-код/giphy.gif)  
+![Funny GIF]([https://media.giphy.com/media/ваш-gif-код/giphy.gif](https://gifer.com/embed/1xZ))  
 
 
 ## 🚀 About me 
