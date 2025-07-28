@@ -1,6 +1,8 @@
 # Hello👋 I'm Denis
 
-<div style="padding-top:78.557%;position:relative;"><iframe src="https://gifer.com/embed/1xZ" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400">
+</p>
 
 
 ## 🚀 About me 
